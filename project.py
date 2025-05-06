@@ -1,5 +1,5 @@
 # Project name: SJF Non-Preemptive Scheduling with Job Queue
-# Name: Taha Nawaz F24-004
+
 
 # Step 1: Get number of jobs
 n = int(input("Enter number of jobs (at least 3): "))
